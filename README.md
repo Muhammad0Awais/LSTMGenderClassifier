@@ -5,11 +5,7 @@ Our dataset constists of names and the assigned genders, we first changed the la
 
 [ 5 38 35 52 27 28 31 46 34  0  0  0  0  0  0]
 
-Total params: 361
-Trainable params: 361
-Non-trainable params: 0
-
-The accuracy of baseline lstm model is as follows:
+The accuracy of baseline LSTM model is as follows:
 LSTM Baseline test loss: 0.43105417490005493 , test acc: 0.8020843267440796
 
 Classical Neural Network is trained and it has given the following accuracy:
