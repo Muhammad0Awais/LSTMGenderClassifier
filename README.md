@@ -20,3 +20,6 @@ Then we fine tuned the lstm, by increasing the hidden_state_size of lstm to 25, 
 LSTM Tuned test loss: 0.40758052468299866, test acc: 0.8152915239334106
 
 For more detailed information please have a look into the notebooks. Thanks
+
+# Note: 
+The structure for accessing data is the same mentioned in the home-work instructions, moreover, to build the model, run train.py in source, and then you will be able to test the model using test.py, but first you need to install the libraries mentioned in requirements.txt
