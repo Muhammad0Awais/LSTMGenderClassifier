@@ -23,3 +23,6 @@ For more detailed information please have a look into the notebooks. Thanks
 
 # Note: 
 The structure for accessing data is the same mentioned in the home-work instructions, moreover, to build the model, run train.py in source, and then you will be able to test the model using test.py, but first you need to install the libraries mentioned in requirements.txt
+
+# Link to report: 
+https://www.notion.so/Name-Based-Gender-Classification-6b131b3e7ec1438dae3391c55d7e930a
