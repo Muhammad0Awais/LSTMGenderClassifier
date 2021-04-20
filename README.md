@@ -1,4 +1,4 @@
-# LSTM Gender Classifier
+# LSTM Gender Classifier [![Implementation Test](https://github.com/Muhammad0Awais/LSTMGenderClassifier/actions/workflows/build.yml/badge.svg)](https://github.com/Muhammad0Awais/LSTMGenderClassifier/actions/workflows/build.yml)
 This is the first home work for advanced machine learning course, where we had to classify the gender based on the name of a person. In this experiment we fine tuned the lstm model to increase the accuracy of model, the accuracy of lstm on test data is increased from 80.21% to 81.52%.
 
 Our dataset constists of names and the assigned genders, we first changed the labels from male, female, to 0,1, and changed the names to vector representations, for example, the name Elizabeth is converted to
