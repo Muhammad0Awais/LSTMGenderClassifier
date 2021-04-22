@@ -15,7 +15,7 @@ from scripts.dataExtract import loadData
 # %load_ext tensorboard 
 # %tensorboard --logdir log   
 
-trainPath = "data/train_eng.csv"
+trainPath = "../data/train_eng.csv"
 
 # Pre-processing data to find vector representations
 train_x, train_y = loadData(trainPath)
