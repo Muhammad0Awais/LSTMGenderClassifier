@@ -1,4 +1,6 @@
 from tensorflow import keras
+from context import scripts
+
 from scripts.dataExtract import loadData
 
 testPath = "data/test_eng.csv"
