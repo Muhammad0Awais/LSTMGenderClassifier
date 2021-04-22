@@ -3,7 +3,7 @@ from context import scripts
 
 from scripts.dataExtract import loadData
 
-testPath = "data/test_eng.csv"
+testPath = "../data/test_eng.csv"
 test_x, test_y = loadData(testPath)
 
 lstm_baseline = keras.models.load_model("lstmBaseLineModel.h5")
