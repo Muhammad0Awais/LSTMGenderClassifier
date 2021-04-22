@@ -10,8 +10,8 @@ from tensorflow.keras.optimizers import Adam
 from scripts.dataExtract import loadData
 
 
-%load_ext tensorboard 
-%tensorboard --logdir log   
+# %load_ext tensorboard 
+# %tensorboard --logdir log   
 
 trainPath = "data/train_eng.csv"
 
