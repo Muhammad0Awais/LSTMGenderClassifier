@@ -7,6 +7,8 @@ from sklearn.model_selection import train_test_split
 from tensorflow.keras.regularizers import l2
 from tensorflow.keras.optimizers import Adam
 
+from context import scripts
+
 from scripts.dataExtract import loadData
 
 
